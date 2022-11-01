@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcolon/test.git"
+  },
+  "keywords": [
+    "TEST"
+  ],
+  "author": "webcolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcolon/test/issues"
+  },
+  "homepage": "https://github.com/webcolon/test#readme"
+}
